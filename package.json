@@ -1,7 +1,7 @@
 {
     "name": "cityads-api",
     "version": "0.1.4",
-    "description": "API integration with Actionpay",
+    "description": "API integration with CityAds",
     "author": "André Ferreira <andrehrf@gmail.com>",
     "main": "index.js",
     "repository": {
